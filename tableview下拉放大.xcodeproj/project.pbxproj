@@ -13,6 +13,9 @@
 		E52213EA1EC1BA150021D70C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E52213E81EC1BA150021D70C /* Main.storyboard */; };
 		E52213EC1EC1BA150021D70C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E52213EB1EC1BA150021D70C /* Assets.xcassets */; };
 		E52213EF1EC1BA150021D70C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E52213ED1EC1BA150021D70C /* LaunchScreen.storyboard */; };
+		E52213F71EC1BD8C0021D70C /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E52213F61EC1BD8C0021D70C /* 2.jpg */; };
+		E52213F91EC1C4A80021D70C /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = E52213F81EC1C4A80021D70C /* 2.png */; };
+		E5C774411F137C6700FD5ABF /* 123.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E5C774401F137C6700FD5ABF /* 123.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +29,9 @@
 		E52213EB1EC1BA150021D70C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E52213EE1EC1BA150021D70C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E52213F01EC1BA150021D70C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E52213F61EC1BD8C0021D70C /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		E52213F81EC1C4A80021D70C /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		E5C774401F137C6700FD5ABF /* 123.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 123.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +68,9 @@
 				E52213E31EC1BA150021D70C /* AppDelegate.m */,
 				E52213E51EC1BA150021D70C /* ViewController.h */,
 				E52213E61EC1BA150021D70C /* ViewController.m */,
+				E52213F61EC1BD8C0021D70C /* 2.jpg */,
+				E5C774401F137C6700FD5ABF /* 123.jpg */,
+				E52213F81EC1C4A80021D70C /* 2.png */,
 				E52213E81EC1BA150021D70C /* Main.storyboard */,
 				E52213EB1EC1BA150021D70C /* Assets.xcassets */,
 				E52213ED1EC1BA150021D70C /* LaunchScreen.storyboard */,
@@ -138,8 +147,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E5C774411F137C6700FD5ABF /* 123.jpg in Resources */,
+				E52213F91EC1C4A80021D70C /* 2.png in Resources */,
 				E52213EF1EC1BA150021D70C /* LaunchScreen.storyboard in Resources */,
 				E52213EC1EC1BA150021D70C /* Assets.xcassets in Resources */,
+				E52213F71EC1BD8C0021D70C /* 2.jpg in Resources */,
 				E52213EA1EC1BA150021D70C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -312,6 +324,7 @@
 				E52213F51EC1BA150021D70C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
