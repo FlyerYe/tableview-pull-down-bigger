@@ -1,2 +1,2 @@
 # tableview-pull-down-bigger
-/Users/fuye/Downloads/QQ20170711-103348-HD.gif
+tableview 下拉时上面的图片放大
